@@ -8,4 +8,4 @@ make
 ./output
 ```
 
-have a good time :)
+Have a good time :)
