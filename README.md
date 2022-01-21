@@ -1,5 +1,5 @@
 # Sneak-Out
-Description: Text based interactive video game
+Text based interactive video game
 
 How to play:
 ```sh
