@@ -3,7 +3,7 @@ Text based interactive video game
 
 How to play:
 ```sh
-git clone https://github.com/christopherPMello/Sneak-Out.git 
+git clone git@github.com:christopherPMello/Sneak-Out.git
 make
 ./output
 ```
